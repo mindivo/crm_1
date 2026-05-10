@@ -1,0 +1,6 @@
+# agent instructions
+AGENTS.md
+.vercel
+
+node_modules/
+dist/
